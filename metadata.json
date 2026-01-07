@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aether AI Studio",
+  "description": "A comprehensive multi-modal AI creative suite for chat, image generation, video synthesis, and real-time voice interaction powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
